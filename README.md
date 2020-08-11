@@ -8,7 +8,7 @@ Resources for the Digital Image Processing course, Monsoon 2020 at IIIT Hyderaba
   - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
   - [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 - [Using GitHub + Colab + Drive](https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228)
-- [GitHub Desktop](https://desktop.github.com/)
+- [If you want to avoid using the command line, Windows & Mac users can use GitHub Desktop](https://desktop.github.com/)
 - Additional resources
     - [Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
     - [Using Branches](https://www.atlassian.com/git/tutorials/using-branches)
