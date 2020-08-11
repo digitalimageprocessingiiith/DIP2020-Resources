@@ -13,6 +13,7 @@ Resources for the Digital Image Processing course, Monsoon 2020 at IIIT Hyderaba
     - [Git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
     - [Using Branches](https://www.atlassian.com/git/tutorials/using-branches)
     - [Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+- Using markdown on github, to make good README files : [GitHub Markdown](https://docs.github.com/en/github/writing-on-github/about-writing-and-formatting-on-github)
 
 ## Tutorial 1 
 - [Slides](https://iiitaphyd-my.sharepoint.com/:p:/g/personal/meher_shashwat_students_iiit_ac_in/ETPhm14OXkdAvXWxVQjeyW8BbpWrJp5-KYKgBSTp4zykRQ?e=Nq69Ac)
