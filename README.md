@@ -20,7 +20,7 @@ Resources for the Digital Image Processing course, Monsoon 2020 at IIIT Hyderaba
   - Working with conda environments : [Using environments](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
   - Installing jupyter for working with notebooks : [Jupyter installation](https://jupyter.org/install)
 
-- [GitHub+Colab+Drive:Working completely online](https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228)
+- [GitHub+Colab+Drive: Working completely online](https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228)
 
 - [Basic bash commands](https://www.geeksforgeeks.org/basic-shell-commands-in-linux/)
 
