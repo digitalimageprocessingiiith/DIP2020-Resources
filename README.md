@@ -1,5 +1,6 @@
 # Resources
-Resources for the Digital Image Processing course, Monsoon 2020 at IIIT Hyderabad.
+Resources for the Digital Image Processing course, Monsoon 2020 at IIIT Hyderabad. Watch this repository to get notified of updates
+## [Course Schedule](https://docs.google.com/spreadsheets/d/16CwntdexC0N_EBdz6HmOhDQ459_-QqfJ2ROQrFOtFow/edit?usp=sharing)
 
 ## Prerequisites
 - `Git resources`
@@ -28,7 +29,14 @@ Resources for the Digital Image Processing course, Monsoon 2020 at IIIT Hyderaba
 - [Slides](https://iiitaphyd-my.sharepoint.com/:p:/g/personal/meher_shashwat_students_iiit_ac_in/ETPhm14OXkdAvXWxVQjeyW8BbpWrJp5-KYKgBSTp4zykRQ?e=Nq69Ac)
 - [Colab Notebook](https://colab.research.google.com/drive/1twvFDanK_XRMwxp_7mHF6FIOYUf-f627?usp=sharing)
 
+## [Assignment 0](https://github.com/digitalimageprocessingiiith/Assignment-0)
+## [Assignment 1](https://github.com/digitalimageprocessingiiith/Assignment-1)
+
 ---
+### For Assignment/Course related issues/queries
+Make an issue in the repository. Make sure to pin point the exact problem; mention the assignment, question, subpart and what exactly is the doubt. Please avoid pinging TAs indivdually for assignment related queries. We will switch to moodle for queries, once TAs get access. Please bear with us. 
+
+----
 ### TA Contact Information
 The TAs can be contacted via email (until some Moodle issues are resolved).
 - Adhithya Arun: adhithya.arun@students.iiit.ac.in
