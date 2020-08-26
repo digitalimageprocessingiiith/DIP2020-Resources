@@ -34,7 +34,7 @@ Resources for the Digital Image Processing course, Monsoon 2020 at IIIT Hyderaba
 
 ---
 ### For Assignment/Course related issues/queries
-Make an issue in the repository. Make sure to pin point the exact problem; mention the assignment, question, subpart and what exactly is the doubt. Please avoid pinging TAs indivdually for assignment related queries. We will switch to moodle for queries, once TAs get access. Please bear with us. 
+Please raise all doubts in appropriate threads on `Moodle`.
 
 ----
 ### TA Contact Information
@@ -42,3 +42,5 @@ The TAs can be contacted via email (until some Moodle issues are resolved).
 - Adhithya Arun: adhithya.arun@students.iiit.ac.in
 - Meher Shashwat Nigam: meher.shashwat@students.iiit.ac.in
 - Soumyasis Gun: soumyasis.gun@research.iiit.ac.in
+- Prajwal Krishna: prajwal.krishna@students.iiit.ac.in
+- Surendra Kumar: surendra.kumar@research.iiit.ac.in
